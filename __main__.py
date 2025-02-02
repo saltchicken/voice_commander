@@ -1,3 +1,4 @@
+import os
 import pyaudio
 import vosk
 import json
